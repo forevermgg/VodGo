@@ -11,3 +11,43 @@
 https://cdn.jsdelivr.net/gh/GitHub用户名/库名/文件目录/playlist.m3u8
 https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg.m3u8
 https://raw.githubusercontent.com/forevermgg/VodGo/FirstVideoTest/mgg.m3u8
+
+# 坑点
++ vlc可以播放的m3u8
+```
+#EXTM3U
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.066500,
+https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg00000.ts
+#EXTINF:5.036778,
+https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg00001.ts
+#EXTINF:5.050422,
+https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg00002.ts
+#EXTINF:3.350222,
+https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg00003.ts
+#EXT-X-ENDLIST
+```
++ https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg.m3u8 link open 下载下里的的m3u8
+```
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:6
+#EXTINF:5.066500,
+https://cdn.jsdelive.net/gh/forevermgg/VodGo/main/FirstVideoTest/mgg00000.ts
+#EXTINF:5.036778,
+https://cdn.jsdelive.net/gh/forevermgg/VodGo/main/FirstVideoTest/mgg00001.ts
+#EXTINF:5.050422,
+https://cdn.jsdelive.net/gh/forevermgg/VodGo/main/FirstVideoTest/mgg00002.ts
+#EXTINF:3.350222,
+https://cdn.jsdelive.net/gh/forevermgg/VodGo/main/FirstVideoTest/mgg00003.ts
+#EXT-X-ENDLIST
+```
++ 更新不及时
+
+
