@@ -10,3 +10,4 @@
 # 链接
 https://cdn.jsdelive.net/gh/GitHub用户名/库名/文件目录/playlist.m3u8
 https://cdn.jsdelive.net/gh/forevermgg/VodGo/FirstVideoTest/mgg.m3u8
+https://raw.githubusercontent.com/forevermgg/VodGo/FirstVideoTest/mgg.m3u8
