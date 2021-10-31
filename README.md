@@ -12,6 +12,15 @@ https://cdn.jsdelivr.net/gh/GitHub用户名/库名/文件目录/playlist.m3u8
 https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg.m3u8
 https://raw.githubusercontent.com/forevermgg/VodGo/FirstVideoTest/mgg.m3u8
 
+# 使用
++ 现在访问是m3u8是不可以播放视频的会自动下载
+https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg.m3u8
+https://cdn.jsdelivr.net/gh/lete114/CDN2/video/4.m3u8
++ 访问文件也是不行的会乱码
+https://cdn.jsdelivr.net/gh/forevermgg/VodGo/main/FirstVideoTest/mgg00000.ts
+https://cdn.jsdelivr.net/gh/lete114/CDN2/video/4000.ts
++ 将下载的文件拖入vlc播放器播放
+
 # 坑点
 + vlc可以播放的m3u8
 ```
