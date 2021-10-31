@@ -50,4 +50,5 @@ https://cdn.jsdelive.net/gh/forevermgg/VodGo/main/FirstVideoTest/mgg00003.ts
 ```
 + 更新不及时
 
-
+# 参考
+https://kakawanyifan.com/90599
