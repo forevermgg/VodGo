@@ -1,5 +1,19 @@
 # VodGo
 视频床
+# ffmpeg
+```
+mengganggang@FOREVERMENG-MB0 Downloads % brew install ffmpeg
+Updating Homebrew...
+==> Auto-updated Homebrew!
+Updated Homebrew from dae9a34a8 to 9daf5e2d2.
+No changes to formulae.
+
+
+==> Homebrew was updated to version 3.3.2
+The changelog can be found at:
+  https://github.com/Homebrew/brew/releases/tag/3.3.2
+ffmpeg 4.4_2 is already installed but outdated
+```
 # 切片
 > 将 mp4 切片，并生成 m3u8 文件
 + output.mp4 需要切片的视频文件
