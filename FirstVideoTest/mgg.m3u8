@@ -5,12 +5,12 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:6
 #EXTINF:5.066500,
-https://cdn.jsdelivr.net/gh/forevermgg/VodGo/main/FirstVideoTest/mgg00000.ts
+https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg00000.ts
 #EXTINF:5.036778,
-https://cdn.jsdelivr.net/gh/forevermgg/VodGo/main/FirstVideoTest/mgg00001.ts
+https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg00001.ts
 #EXTINF:5.050422,
-https://cdn.jsdelivr.net/gh/forevermgg/VodGo/main/FirstVideoTest/mgg00002.ts
+https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg00002.ts
 #EXTINF:3.350222,
-https://cdn.jsdelivr.net/gh/forevermgg/VodGo/main/FirstVideoTest/mgg00003.ts
+https://cdn.jsdelivr.net/gh/forevermgg/VodGo/FirstVideoTest/mgg00003.ts
 #EXT-X-ENDLIST
 
