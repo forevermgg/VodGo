@@ -20,6 +20,7 @@ https://cdn.jsdelivr.net/gh/lete114/CDN2/video/4.m3u8
 https://cdn.jsdelivr.net/gh/forevermgg/VodGo/main/FirstVideoTest/mgg00000.ts
 https://cdn.jsdelivr.net/gh/lete114/CDN2/video/4000.ts
 + 将下载的文件拖入vlc播放器播放
++ dplayer实现html播放 http://dplayer.js.org/guide.html#options
 
 # 坑点
 + vlc可以播放的m3u8
