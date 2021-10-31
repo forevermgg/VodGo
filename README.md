@@ -7,3 +7,6 @@
 + 5 切片时间，表示隔几秒进行切一个文件
 + output%03d.ts 生成切割ts文件名，output%03d.ts 代表生成 output001.ts、output002.ts 这样的格式，03d 可以随意修改，占位符
 **ffmpeg -i output.mp4 -c copy -map 0 -f segment -segment_list playlist.m3u8 -segment_time 5 output%03d.ts**
+# 链接
+https://cdn.jsdelive.net/gh/GitHub用户名/库名/文件目录/playlist.m3u8
+https://cdn.jsdelive.net/gh/forevermgg/VodGo/FirstVideoTest/playlist.m3u8
